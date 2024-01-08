@@ -9,7 +9,7 @@
 
 .banner {
     font-family: 'Merriweather', serif;
-    background:rgba(140, 137, 137, 0.8)url('../images/Banner\ Image.png');
+    background: rgba(140, 137, 137, 0.8)url('../images/Banner\ Image.png');
     border-radius: 16px;
     height: 600px;
     filter: brightness(100%);
@@ -40,3 +40,113 @@
     padding-top: 25px;
 
 }
+
+.holiday-section {
+    font-family: 'Inter', sans-serif;
+}
+
+.parcentage {
+    /* display: block; */
+    justify-content: center;
+}
+
+.holiday-parcentage {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+}
+
+.holiday-deals {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    margin-bottom: 10px;
+}
+
+.categories {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.new-year-img{
+    display: block;
+    width: 802.9px;
+    height: 500px;
+    margin-left: auto;
+    /* -right: 200px; */
+    text-align:justify;
+    margin-right: auto;
+    /* justify-content: end; */
+    
+}
+
+ .party-div {
+    display: flex;
+    /* justify-content: space-around; */
+    background:rgba(86, 84, 84, 0.8) url('../images/Vectorrr.png');
+    border-radius: 16px;
+    height: 600px;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    background-repeat: no-repeat;
+    filter: brightness(100%);
+    background-blend-mode: darken;
+    /* fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+}
+
+.mid-party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    padding: 126px 100px 10px 126px;
+    letter-spacing: 7.04px;
+}
+
+.party-descriptiion {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 30px 40px 50px 126px;
+
+}
+
+.join-button {
+    /* color: #FFF; */
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 20px;
+    margin-left: 158px;
+    border: none;
+    font-weight: 700;
+    /* mix-blend-mode: multiply; */
+}
+/* }
+.button-span{
+    color:white;
+} */
+
+.group-img {
+    width: 319.83px;
+    height: 464.662px;
+    padding-right: 120px;
+    padding-top: 68px;
+    flex-direction: column;
+    /* flex-shrink: 0; */
+    /* background-image: none; */
+    /* mix-blend-mode:multiply; */
+    /* fill: radial-gradient(50% 50% at 50% 50%, #883932 27%, #c17a73 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%); */
+    /* background-blend-mode: multiply; */
+    /* mix-blend-mode:multiply; */
+} 

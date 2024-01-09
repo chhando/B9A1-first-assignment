@@ -312,7 +312,8 @@
     font-weight: 900;
     margin-bottom: 30px;
 }
-.holi-color{
+
+.holi-color {
     color: red;
 }
 
@@ -355,7 +356,7 @@
     line-height: 32px;
     padding-left: 120px;
     padding-bottom: 30px;
-    padding-right:400px
+    padding-right: 400px
 }
 
 .port-img {

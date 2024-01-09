@@ -46,7 +46,6 @@
 }
 
 .parcentage {
-    /* display: block; */
     justify-content: center;
 }
 
@@ -80,16 +79,13 @@
     width: 802.9px;
     height: 500px;
     margin-left: auto;
-    /* -right: 200px; */
     text-align: justify;
     margin-right: auto;
-    /* justify-content: end; */
 
 }
 
 .party-div {
     display: flex;
-    /* justify-content: space-around; */
     background: rgba(86, 84, 84, 0.8) url('../images/Vectorrr.png');
     border-radius: 16px;
     height: 600px;
@@ -99,7 +95,6 @@
     background-repeat: no-repeat;
     filter: brightness(100%);
     background-blend-mode: darken;
-    /* fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
 }
 
 .mid-party {
@@ -123,19 +118,12 @@
 }
 
 .join-button {
-    /* color: #FFF; */
-    /* text-align: center; */
     font-family: Inter;
     font-size: 20px;
     margin-left: 158px;
     border: none;
     font-weight: 700;
-    /* mix-blend-mode: multiply; */
 }
-
-/* .button-span{
-    color:white;
-}  */
 
 .group-img {
     width: 319.83px;
@@ -150,8 +138,6 @@
 
     margin-top: 30px;
     border-radius: 16px;
-    /* border-bottom-left-radius: 16px; */
-    /* border-bottom-right-radius: 16px; */
     max-width: 1320px;
     height: 482px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
@@ -170,7 +156,6 @@
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
-    /* 175% */
     text-transform: capitalize;
 }
 
@@ -181,7 +166,6 @@
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
-    /* 175% */
     text-transform: capitalize;
 }
 
@@ -192,7 +176,6 @@
     font-size: 32px;
     font-weight: 600;
     line-height: 56px;
-    /* 175% */
     text-transform: capitalize;
 }
 
@@ -396,7 +379,6 @@
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
-    /* 160% */
 }
 
 .img-group {
@@ -433,7 +415,6 @@
 }
 
 .email-btn {
-    /* justify-content: center; */
     text-align: center;
     padding-top: 50px;
 }
@@ -449,7 +430,7 @@
 
 footer {
     background-color: #070211;
-    height: 650px;
+    height: 600px;
 }
 
 .upper-foot {
@@ -464,8 +445,6 @@ footer {
     font-weight: 500;
     line-height: 40px;
     padding-top: 120px;
-
-    /* 166.667% */
 }
 
 ul {
@@ -483,8 +462,6 @@ footer ul li a {
     font-size: 24px;
     font-weight: 500;
     line-height: 40px;
-
-    /* 166.667% */
 }
 
 hr {
@@ -492,7 +469,6 @@ hr {
     margin-left: 250px;
     color: #FFFFFF26;
     margin-top: 50px;
-    /* height: 1px; */
 }
 
 .image-div {

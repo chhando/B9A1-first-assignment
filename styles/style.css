@@ -222,6 +222,112 @@
     text-transform: uppercase;
 }
 
+.new-offer {
+    display: flex;
+    gap: 100px;
+    margin-left: 120px;
+    margin-bottom: 100px;
+}
+
+.offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.offer-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    text-align: center;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.offer-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+.ellipse-border {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    margin-right: 100px;
+}
+
+.ellipse {
+    width: 364.844px;
+    height: 364.844px;
+    padding: 40px;
+
+}
+
+.sell-year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.product-details {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+.group-image {
+    width: 140px;
+    height: 140px;
+}
+
+
+
+.function-title {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.holi-sale {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.holi-color{
+    color: red;
+}
+
+.sale-des {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-left: 266px;
+    margin-right: 266px;
+    margin-bottom: 50px;
+}
+
 .gifts {
     color: #F00;
     font-family: Inter;
@@ -249,6 +355,7 @@
     line-height: 32px;
     padding-left: 120px;
     padding-bottom: 30px;
+    padding-right:400px
 }
 
 .port-img {
@@ -269,6 +376,7 @@
     background: rgba(255, 0, 0, 0.05);
     margin-left: 120px;
     padding-right: 50px;
+    margin-bottom: 60px;
 }
 
 .sub-title {
@@ -336,4 +444,71 @@
     font-size: 20px;
     font-weight: 600;
     text-transform: capitalize;
+}
+
+footer {
+    background-color: #070211;
+    height: 650px;
+}
+
+.upper-foot {
+    display: flex;
+    justify-content: space-around;
+}
+
+.address {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+
+    /* 166.667% */
+}
+
+ul {
+    padding-top: 100px;
+}
+
+.li {
+    list-style: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+
+    /* 166.667% */
+}
+
+hr {
+    width: 1020px;
+    margin-left: 250px;
+    color: #FFFFFF26;
+    margin-top: 50px;
+    /* height: 1px; */
+}
+
+.image-div {
+    text-align: center;
+    word-spacing: 20px;
+    margin-top: 90px;
+}
+
+.copy-div {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+.copy {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
 }
